@@ -11,6 +11,6 @@
   -   [U.S. General Services Administration - FAC](https://www.gsa.gov/)
 
 - Personal unused github account:
-  -   https://github.com/bombarding
+  -   [Bomabarding](https://github.com/bombarding)
 
 ![Alex's Github Stats](https://github-readme-stats.vercel.app/api?username=asteel-gsa&show_icons=true&theme=dark)
